@@ -5,4 +5,4 @@ Andreevna
 Faculty of ITi
 POIT
 OPI
-Course 1, group 5-2, 
+Course 1, group 5-2.
