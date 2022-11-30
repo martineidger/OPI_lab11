@@ -2,7 +2,7 @@
 Dzivnel
 Marta
 Andreevna
-Faculty of IT
+Faculty of ITi
 POIT
 OPI
 Course 1, group 5-2, 
